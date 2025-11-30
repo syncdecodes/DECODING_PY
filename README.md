@@ -38,6 +38,8 @@ Expect to find code related to:
 This is a personal learning repository, so contributions aren’t expected —
 but suggestions, tips, or learning resources are always welcome!
 
-# AUTHOR 
+## ✍️ AUTHOR
 
-DEV 
+DEV
+
+Created by [syncdecodes](https://github.com/syncdecodes)
