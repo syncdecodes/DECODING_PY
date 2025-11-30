@@ -1,0 +1,7 @@
+=> for html file - .html
+=> for javascript file - .js
+=> for css file - .css
+=> for text file - .txt
+=> for java file - .java
+=> for c++ file - .cpp
+=> for python file - .py
