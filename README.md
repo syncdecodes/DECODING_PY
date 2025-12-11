@@ -1,4 +1,4 @@
-# DECODING_PYTHON 🐍 
+# DECODING PYTHON 🐍 
 
 Welcome! This repository contains all the Python code I've written while learning the language.
 It includes exercises, small projects, experiments, and notes gathered along my Python journey.
