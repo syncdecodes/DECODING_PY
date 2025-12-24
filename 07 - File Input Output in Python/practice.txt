@@ -1,0 +1,5 @@
+Hello
+everyone
+we are learning File I/O
+using Python.
+Python is better than python but also harder
