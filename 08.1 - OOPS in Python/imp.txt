@@ -1,0 +1,3 @@
+1. static method - when we are not using any properties or method of class we use @staticmethod
+2. class method - when we want to use class attributes(variables) we use @classmethod
+3. instance method - (self)
