@@ -2,7 +2,7 @@
 class Account:
     def __init__(self, acc_no, acc_pass):
         self.acc_no = acc_no
-        self.__acc_pass = acc_pass # now this is private and can be accessed publicly
+        self.__acc_pass = acc_pass # now this is private and can't be accessed publicly
 
     def reset_pass(self):
         return self.__acc_pass
@@ -29,6 +29,7 @@ print(p1.welcome())
 
 # PRIVATE ATTRIBUTES AND METHODS ARE MEANT TO BE USED ONLY WITHIN THE CLASS AND ARE NOT ACCESSIBLE FROM OUTSIDE THE CLASS.
 # AGAR HUMNE ATTRIBUTES YA METHODS KO DOUBLE UNDERSCORE ( __ ) SE PRIVATE BANA DIA TOH USE CLASS KE SIRF JO INTERNAL FUNCTION HAI WAHI ACCESS KAR PAENGE BAHAR KOI USE ACCESS NAHI KAR PAEGA.
+
 
 
 
