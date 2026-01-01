@@ -1,0 +1,38 @@
+1 -
+.includes() can be used in javascript when we want to check whether element is present in list, string.. etc
+ 
+2 - 
+.repeat() can be used in js to multiply a string with a number, In python we can simply write string*int
+
+3 -
+PYTHON — "in" checks VALUES (inside lists, strings, sets, tuples) and KEYS (in dicts)
+
+JAVASCRIPT — "in" checks KEYS/INDEXES, NOT values
+
+Simple examples to memorize
+✔ Python
+"a" in "cat"               # True
+"a" in ["a", "b"]          # True
+"a" in {"a": 1}            # True
+
+✔ JavaScript
+"a" in "cat"               // false (string has indexes only)
+ 0 in "cat"                 // true (index 0 exists)
+"a" in {a: 1}              // true
+
+4 -
+.find() in python = .indexOf() in js
+
+5 -
+.replace(old, new) in python replaces all the occurence where as in javascript only teh first occurence is replaced
+
+To replace all occuerenced we use replaceAll in js
+
+6 -
+python slice = str[1:3]
+javscript slice = str.slice(1,3)
+
+7 -
+function ul_aruguments(...num)
+
+...num allows the function to accept unlimited arguments
